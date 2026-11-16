@@ -1,8 +1,9 @@
 --- Personal Details ---
 Name : Chris Tigga
-Mobile Number : 9876543210
+Mobile Number : 9000000001
 
 --- Parents Details ---
+Father Name : Mr. Tigga
 
 --- Academic Details ---
 Course : BCA
